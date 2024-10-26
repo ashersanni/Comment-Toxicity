@@ -1,8 +1,7 @@
 # Comment Toxicity Classification
 
-**Project Title: Toxic Comment Classification with Bidirectional LSTM**
+**Toxic Comment Classification with Bidirectional LSTM**
 
-**Project Overview:**  
 This project aims to detect and classify toxic comments on social media and other online platforms, addressing a key challenge in maintaining healthy online communities. I trained a bidirectional Long Short-Term Memory (LSTM) model, leveraging both forward and backward contextual understanding to capture nuances in user comments. This model was developed using the Jigsaw Toxic Comment Classification Challenge dataset, which contains a broad range of labeled user comments, allowing the model to recognize toxic content such as hate speech, obscenity, and threats effectively. The model architecture incorporates dropout regularization to combat overfitting, making it more adaptable to real-world data.
 
 **Use Cases:**  
