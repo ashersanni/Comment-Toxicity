@@ -7,7 +7,6 @@ This project aims to detect and classify toxic comments on social media and othe
 **Use Cases:**  
 - **Social Media Content Moderation**: Automatically identifying and flagging toxic comments can help platforms enhance user experiences by reducing harmful interactions.
 - **Customer Service and Support**: In customer feedback and support channels, the model can quickly identify and categorize negative comments, allowing teams to prioritize responses.
-- **Online Gaming Communities**: Real-time toxic comment detection improves community health by mitigating toxic interactions in chat systems, fostering positive user experiences.
   
 **Potential Model Improvements:**  
 1. **Expand Dataset Diversity**: Integrating more datasets, especially with varied languages, dialects, or online communities, can broaden the model’s understanding of different contexts of toxicity.
